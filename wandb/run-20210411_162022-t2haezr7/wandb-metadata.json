@@ -1,0 +1,20 @@
+{
+    "username": "oycq", 
+    "executable": "/usr/bin/python", 
+    "args": [], 
+    "python": "2.7.17", 
+    "os": "Linux-4.15.0-140-generic-x86_64-with-Ubuntu-18.04-bionic", 
+    "cpu_count": 12, 
+    "heartbeatAt": "2021-04-11T08:20:27.561386", 
+    "state": "failed", 
+    "project": "dsc", 
+    "host": "teemo", 
+    "program": "t.py", 
+    "mode": "run", 
+    "gpu": "GeForce RTX 2070", 
+    "startedAt": "2021-04-11T08:20:23.207361", 
+    "exitcode": 1, 
+    "root": "/home/oycq/dsc", 
+    "jobType": null, 
+    "gpu_count": 1
+}
